@@ -5,6 +5,7 @@
 O projeto consiste na criação de um jogo de xadrez, considerando todas as regras envolvidas em uma partida de xadrez convencional. O jogo foi representado visulamente através do Git Bash. O objetivo do projeto foi o de praticar os principais tópicos da POO e também a linguagem Java. 
 
 ## Modelo conceitual
+![Modelo Conceitual](https://github.com/brunoalberto1618/chess-game-java/blob/master/assets/imgs/chess-system-design.png)
 
 # Tecnologias utilizadas
 - Java
